@@ -1,0 +1,54 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "state": 0,
+            "activateCode": "aaaaa",
+            "activateTime": "aaaaa1",
+            "deactivateTime": "aaaaa2",
+            "code":"this is code",
+            "comment": "this is comment",
+            "feedback": "this is feedback",
+            "score1": 1,
+            "score2": 2,
+            "score3": 3
+        },
+        {
+            "id": 2,
+            "name": "李四",
+            "money": 456,
+            "address": "广东省广州市白云区",
+            "state": 0,
+            "activateCode": "bbbb",
+            "activateTime": "bbbb1",
+            "deactivateTime": "bbbb2",
+            "date": "2019-10-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "王五",
+            "money": 789,
+            "address": "湖南省长沙市",
+            "state": 1,
+            "activateCode": "aaaaa",
+            "activateTime": "aaaaa1",
+            "deactivateTime": "aaaaa2",
+            "date": "2019-11-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "赵六",
+            "money": 1011,
+            "address": "福建省厦门市鼓浪屿",
+            "state": 2,
+            "activateCode": "aaaaa",
+            "activateTime": "aaaaa1",
+            "deactivateTime": "aaaaa2",
+            "date": "2019-10-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 4
+}
